@@ -1,3 +1,7 @@
 # MDLExport
 
-A minimal command-line application.
+WIP - WIP - WIP
+
+DRAFT
+
+Export Allegiance MDL File to Collada
